@@ -58,7 +58,7 @@ No Python installation is required.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/csv-excel-cleaner.git
+   git clone https://github.com/samtimi12/CSV-Cleaner.git
    cd csv-excel-cleaner
 2. Create a virtual environment and activate it:
     python -m venv venv

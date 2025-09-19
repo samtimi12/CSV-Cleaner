@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Distribution / packages
+*.egg-info/
+.eggs/
+
+# Executables and large binaries (we'll use Releases instead)
+*.exe
+*.msi
+
+# Logs
+*.log
+
+# Other
+*.bak
